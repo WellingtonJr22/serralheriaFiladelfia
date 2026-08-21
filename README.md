@@ -1,4 +1,8 @@
-# Serralheria Filadélfia — Site Institucional V2
+# Serralheria Filadélfia — Site Institucional 
+
+
+<img width="1662" height="877" alt="image" src="https://github.com/user-attachments/assets/23c3c546-a6d6-41f3-a8b5-7e75c4ea2886" />
+
 
 Landing page estática em HTML, CSS e JavaScript, com galeria responsiva em carrossel usando as fotos e vídeos reais enviados.
 
@@ -40,7 +44,7 @@ Foram incluídos ajustes extras para notebooks de menor resolução e telas de p
 Clique ou toque em qualquer foto do carrossel para abrir uma visualização ampliada. Para fechar, clique no X, no fundo escuro ou pressione Esc.
 
 
-## Atualização V4
+## Atualização
 
 - 2 novos vídeos adicionados ao carrossel.
 - Total de 10 trabalhos no carrossel (5 fotos + 5 vídeos).
