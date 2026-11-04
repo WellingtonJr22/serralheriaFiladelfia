@@ -6,7 +6,7 @@
  * - Use DDI + DDD + número, apenas dígitos.
  * - Exemplo: 5562999999999
  */
-const WHATSAPP_NUMBER = "5562999999999";
+const WHATSAPP_NUMBER = "5562993240971";
 
 const WHATSAPP_MESSAGE =
   "Olá! Vim pelo site da Serralheria Filadélfia e gostaria de solicitar um orçamento.";
